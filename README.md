@@ -110,7 +110,9 @@ Assuming you have a PSR-3 logger instance, you can do something like this:
 $logger->error($exception->getMessage(), $exception->getContext());
 ```
 
-Where do you do this? Wherever you want!
+Of course, the logger needs to be configured with a handler and formatter that are able to process and output the context, wherever it is you're logging to. As far as I know, most common default setups already handle this, so most of the time, this should just work as-is.
+
+So where do you do this? Wherever you want!
 
 A default place where you would definitely _want_ to do this is your app's top-level exception handler.
 
