@@ -12,4 +12,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
-[Unreleased]: https://github.com/levacic/exception-with-context/branches/compare/HEAD..23e6177
+[Unreleased]: https://github.com/levacic/exception-with-context/compare/23e6177..HEAD
