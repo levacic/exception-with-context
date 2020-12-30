@@ -1,0 +1,4 @@
+# Composer and installed dependencies.
+/composer.phar
+/composer.lock
+/vendor
