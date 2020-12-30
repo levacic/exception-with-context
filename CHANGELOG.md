@@ -6,10 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-12-30
+
 ### Added
 
 - Initial project files
 
 ---
 
-[Unreleased]: https://github.com/levacic/exception-with-context/compare/23e6177..HEAD
+[1.0.0]: https://github.com/levacic/exception-with-context/compare/1.0.0..HEAD
+[Unreleased]: https://github.com/levacic/exception-with-context/compare/23e6177..1.0.0
